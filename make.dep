@@ -1,0 +1,3 @@
+movieSearch.o: movieSearch.cpp movieDatabase.h movie.h
+movieDatabase.o: movieDatabase.cpp movieDatabase.h movie.h
+movie.o: movie.cpp movie.h
